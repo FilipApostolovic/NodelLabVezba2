@@ -1,0 +1,2 @@
+C:\Users\Filip\Documents\Visual Studio 2017\Projects\NodelLabVezba2\NodelLabVezba2\obj\Debug\NodelLabVezba2.njsproj.CoreCompileInputs.cache
+C:\Users\Filip\Documents\Visual Studio 2017\Projects\NodelLabVezba2\NodelLabVezba2\bin\Microsoft.NodejsTools.WebRole.dll
