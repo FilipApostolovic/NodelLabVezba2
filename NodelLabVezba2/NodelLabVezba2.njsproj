@@ -11,7 +11,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>cf100214-7abf-477b-b84b-ff50848db786</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>zad4.js</StartupFile>
+    <StartupFile>zadatak7.js</StartupFile>
     <StartWebBrowser>False</StartWebBrowser>
     <SearchPath>
     </SearchPath>
@@ -32,11 +32,24 @@
     <Compile Include="pravougaonik.js">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="zad4.js">
+    <Compile Include="zadatak5-6.js">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="zadatak2.js">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="zadatak3.js">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="zadatak4.js">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="zadatak7.js">
       <SubType>Code</SubType>
     </Compile>
     <Content Include="package.json" />
     <Content Include="README.md" />
+    <Content Include="text.html" />
     <Content Include="text.txt" />
   </ItemGroup>
   <!-- Do not delete the following Import Project.  While this appears to do nothing it is a marker for setting TypeScript properties before our import that depends on them. -->
